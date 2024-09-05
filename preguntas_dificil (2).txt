@@ -1,0 +1,13 @@
+¿Cuál es la derivada de f(x)=7^((x^2)-1)? |x|(7^((x^2)-1)IN7*2x|7xIN2X|(7^((x^2)-1)IN7*2x
+¿Cuál es la derivada de f(x)=-(1/raiz(2^x))? |IN2/(2(raiz(2^x))|IN/raiz(2^x)|2/raiz(2^x)|IN2/(2(raiz(2^x)
+¿Cuál es la derivada de f(x)= IN(X+3)? |x|IN(X)|1/(X+3)|1/(X+3)
+¿Cuál es la derivada de f(x)= log(x-3)^2? |2(x-3)|2(x-3)/(((x-3)^2)in10))|2(x-3)/((x-3)^2)
+¿Cuál es la derivada de f(x)= sen(x+1)+5x? |cos(x+1)|-cos(x+1)+5|cos(x+1)+5|cos(x+1)+5
+
+
+
+¿Cuál es la derivada  f(x)=√x^2-2x+3? |-4x/(3)(3^raiz(x^4 -1)|-4x/(3)(3^raiz(x^4 - 1)^2 (x^2 - 1)^2)|(x^4 - 1)^2 (x^2 - 1)^2)|-4x/(3)(3^raiz(x^4 - 1)^2 (x^2 -1)^2)
+¿Cuál es la derivada  f(x)=(x^2)(e^x)? |ln(2x+(x^2))|((e^x)ln(2x+(x^2)))|3x+4x-5|((e^x)ln(2x+(x^2)))
+¿Cuál es la derivada  f(x)=√(x^4)+cos(x^2)? |(1/2∗((x^4)+COS(x^2))(−1/2)∗((4x^3)−SIN(x^2)ln2x))|COS(x^2))(−1/2)∗((4x^3)|((4x^3)−SIN(x^2)ln2x))|(1/2∗((x^4)+COS(x^2))(−1/2)∗((4x^3)−SIN(x^2)ln2x))
+¿Cuál es la derivada  f(x)=7^((x^2)-1)? |in(7)∗2x|7^((x^2)-1)∗in(7)∗2x|7^((x^2)-1)|7^((x^2)-1)∗in(7)∗2x
+¿Cuál es la derivada  f(x)=in((x^3)+5x)? |(3x^2)+5|(−1/2)∗((4x^3)|(3x^2)+5/(x^3)+5x|(3x^2)+5/(x^3)+5x
