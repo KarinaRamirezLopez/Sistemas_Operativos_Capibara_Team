@@ -1,0 +1,49 @@
+Cuanto es 2 + 2?|3|4|5|4
+Cuanto es 5 - 3?|1|2|4|2
+5 * 13?|65|30|45|65
+250 / 2 =?|110.5|100|125|125
+8 + 2 * (5 - 3) ^ 2 / 4=?|9|9.25|10|10
+Cuanto es 10 + 5?|12|14|15|15
+Cuanto es 8 * 2?|14|16|18|16
+Cuanto es 9 - 7?|3|1|2|2
+Cuanto es 6 + 3?|7|9|8|9
+Cuanto es 25 / 5?|4|6|5|5
+Cuanto es 7 * 8?|54|56|49|56
+Cuanto es 18 - 9?|10|9|8|9
+Cuanto es 4 * 4?|16|14|12|16
+Cuanto es 6 * 6?|36|30|28|36
+Cuanto es 8 + 8?|12|14|16|16
+Cuanto es 50 / 10?|7|5|6|5
+Cuanto es 9 + 6?|15|16|14|15
+Cuanto es 12 / 4?|2|4|3|3
+Cuanto es 20 - 8?|14|12|10|12
+Cuanto es 5 * 5?|25|20|15|25
+Cuanto es 10 * 10?|100|90|110|100
+Cuanto es 36 / 6?|7|6|8|6
+Cuanto es 15 + 5?|20|18|22|20
+Cuanto es 3 * 7?|21|24|18|21
+Cuanto es 40 - 15?|25|24|22|25
+Cuanto es 5 * 6?|25|30|35|30
+Cuanto es 64 / 8?|8|6|7|8
+Cuanto es 100 - 20?|90|80|70|80
+Cuanto es 6 + 9?|12|14|15|15
+Cuanto es 45 / 5?|9|10|11|9
+Cuanto es 12 * 2?|22|20|24|24
+Cuanto es 14 + 7?|20|21|19|21
+Cuanto es 56 / 8?|6|8|7|7
+Cuanto es 8 * 7?|56|48|50|56
+Cuanto es 100 / 10?|12|9|10|10
+Cuanto es 7 * 6?|42|48|36|42
+Cuanto es 16 - 8?|10|8|9|8
+Cuanto es 9 * 9?|72|81|90|81
+Cuanto es 21 + 9?|31|30|32|30
+Cuanto es 72 / 9?|8|9|7|8
+Cuanto es 4 * 9?|36|32|40|36
+Cuanto es 15 - 9?|8|6|9|6
+Cuanto es 18 + 7?|23|24|22|23
+Cuanto es 54 / 6?|8|9|10|9
+Cuanto es 13 * 3?|39|36|35|39
+Cuanto es 27 / 3?|9|8|7|9
+Cuanto es 48 - 18?|32|30|28|30
+
+
