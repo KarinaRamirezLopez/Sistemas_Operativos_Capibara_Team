@@ -1,8 +1,8 @@
 ::Nuestro equipo quería ofrecer algunas sugerencias para mejorar el programa. 
-En primer lugar, nos parece que el nombre actual del programa(ahorcado), no refleja con precisión su naturaleza, ya que cumple más con los aspectos de un cuestionario, tal vez considerar cambiar el nombre a algo que indique claramente que se trata de un cuestionario sería mejor.
-Además, hemos notado una pequeña falta de ortografía en el programa en el comienzo del programa, (acercas es sin h). 
-Por último, el orden en que se presentan las preguntas parece ser un poco confuso. Después de cada ronda, el programa se cierra y, al reiniciarlo, comienza una nueva ronda desde el principio. Esto podría causar cierta confusión y dificultar el seguimiento del progreso. Quizás reordenar las preguntas o encontrar una manera de mejorar la experiencia de usuario en este aspecto podría ser útil.
-Gracias por compartirlo.
+::En primer lugar, nos parece que el nombre actual del programa(ahorcado), no refleja con precisión su naturaleza, ya que cumple más con los aspectos de un cuestionario, tal vez considerar cambiar el nombre a algo que indique claramente que se trata de un cuestionario sería mejor.
+::Además, hemos notado una pequeña falta de ortografía en el programa en el comienzo del programa, (acercas es sin h). 
+::Por último, el orden en que se presentan las preguntas parece ser un poco confuso. Después de cada ronda, el programa se cierra y, al reiniciarlo, comienza una nueva ronda desde el principio. Esto podría causar cierta confusión y dificultar el seguimiento del progreso. Quizás reordenar las preguntas o encontrar una manera de mejorar la experiencia de usuario en este aspecto podría ser útil.
+::Gracias por compartirlo.
 
 @@echo off
 setlocal enabledelayedexpansion
